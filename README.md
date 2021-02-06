@@ -12,6 +12,11 @@
 ### <code> @material-ui/core </code>
 ### <code> @alan-ai/alan-sdk-web </code>
 
+![Screenshot 2021-02-06 121223](https://user-images.githubusercontent.com/59496980/107111520-c4ac7c00-6876-11eb-9ed0-d37b3f52007e.jpg)
+![Screenshot 2021-02-06 121134](https://user-images.githubusercontent.com/59496980/107111526-d55cf200-6876-11eb-86ef-4fb3846aa55b.jpg)
+![Screenshot 2021-02-06 120646](https://user-images.githubusercontent.com/59496980/107111531-df7ef080-6876-11eb-9302-037e0ac2c15d.jpg)
+![Screenshot 2021-02-06 121408](https://user-images.githubusercontent.com/59496980/107111538-e7d72b80-6876-11eb-837f-8e15f1fb14a0.jpg)
+
 
 # Getting Started with Create React App
 
