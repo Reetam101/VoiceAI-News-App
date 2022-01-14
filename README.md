@@ -17,6 +17,11 @@
 ![Screenshot 2021-02-06 120646](https://user-images.githubusercontent.com/59496980/107111531-df7ef080-6876-11eb-9302-037e0ac2c15d.jpg)
 ![Screenshot 2021-02-06 121408](https://user-images.githubusercontent.com/59496980/107111538-e7d72b80-6876-11eb-837f-8e15f1fb14a0.jpg)
 
+# Tech Stack used
+- React.js
+- Material UI
+- Alan AI
+- Netlify
 
 # Getting Started with Create React App
 
