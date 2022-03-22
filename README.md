@@ -7,6 +7,10 @@
 
 # [API](https://newsapi.org/) used in the project. :book:
 
+<p>
+<img alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
 # Packages I used with React
 ### <code> @material-ui/core </code>
@@ -22,6 +26,7 @@
 - Material UI
 - Alan AI
 - Netlify
+
 
 # Getting Started with Create React App
 
